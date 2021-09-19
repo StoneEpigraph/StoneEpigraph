@@ -8,9 +8,9 @@
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneEpigraph&layout=compact&theme=highcontrast" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneEpigraph&layout=compact&theme=highcontrast" />
 
 <hr/>
 
