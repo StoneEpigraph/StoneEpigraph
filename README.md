@@ -6,13 +6,12 @@
 - 🌱 我目前在学习 Org-Roamv2 和 Hugo 的使用.
 - :thinking: 我会学习一些比较冷门的大知识.
 
-<hr />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneEpigraph&layout=compact&theme=highcontrast" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
 
 <hr/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneEpigraph&layout=compact&theme=highcontrast" />
+
 
 <!--
 **StoneEpigraph/StoneEpigraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
