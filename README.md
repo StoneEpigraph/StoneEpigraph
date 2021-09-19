@@ -1,5 +1,12 @@
 ### Welcome here 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<hr />
+
+<img align="left" style="float: left;" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneEpigraph&layout=compact&theme=highcontrast" />
+
+<hr/>
 
 - 🔭 I’m currently working on 北京慧行实达科技有限公司
 - 🌱 I’m currently learning Org-Roamv2 and Hugo conf
