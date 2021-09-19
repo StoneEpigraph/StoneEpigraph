@@ -8,8 +8,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
 
-<hr/>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneEpigraph&layout=compact&theme=highcontrast" />
 
 
