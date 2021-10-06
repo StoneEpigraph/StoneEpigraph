@@ -3,8 +3,8 @@
 - 🔭 我目前就职于:北京慧行实达科技有限公司.
 - :man: 我应该算是一个后台工程师.
 - :anger: 但是我好像好东西有点杂.
-- 🌱 我目前在学习 Org-Roamv2 和 Hugo 的使用.
-- :thinking: 我会学习一些比较冷门的大知识.
+- 🌱 我现在在努力学习Emacs.
+- :thinking: 不过目前好像只用到了Org.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=StoneEpigraph&show_icons=true&theme=highcontrast&hide_title=true" />
 
